@@ -120,20 +120,20 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			</tr>
 			<tr>
 				<td> <b>Parceiros Patrocinadores (Sponsoring Partner)</b></td>
-				<td> Large companies or organisations who want to provide resources to raise the profile of openEHR and their own organisation for mutual benefit</td>
+				<td> Grandes companhias e organizações que desejam prover recursos para elever o perfil da Fundação openEHR e o seu próprio para benefício mútuo</td>
 				<td> 
 					<ul>
-						<li>Visibility on opneEHR website and conferences.</li>
+						<li>Visibilidade no sítio openEHR e conferências.</li>
 					</ul>
 				</td>
-				<td> Negotiated</td>
+				<td> Negociado</td>
 			</tr>
 			</tbody>
 			</table>
 				
 				
-			<h2>openEHR Representatives</h2>
-			<p>openEHR Representatives refer to individuals given the capacity by the openEHR Foundation Board to formally represent the openEHR Foundation on openEHR matters, and lead localisation activities in respective locales (e.g. countries, group of countries or language/culture bound groups with one or more jurisdictions). This is part of the <a href="/pt/programs/localisation/governance">Localisation Programme governance structure</a>. The Representatives need to be nominated by the Localisation Programme Committee (LPC) and approved by the Board.</p>
+			<h2>Representantes openEHR</h2>
+			<p>Representantes openEHR refere-se a individuos em função da capacidade dada pela Direção da Fundação openEHR para formalmente representar a Fundação openEHR em questões openEHR, e liderar atividades localizads em seus respectivos locais(ex. países, grupos de países ou grupos reunidos por meio da língua/cultura com uma ou mais jurisdições). Isto é parte da <a href="/pt/programs/localisation/governance">Estrutura de Governança do Programa de Localização (Localisation Programme governance structure)</a>. Os Representantes devem ser nominado pelo Comitê do Programa de Localização (Localisation Programme Committee - (LPC)) e aprovado pelo Corpo Diretivo.</p>
 			
 <!-- - - - - - - - - - - - - - - - - - - - - - - Content ends here - - - - - - - - - - - - - - - - - - - - - - - - - -->
 		</div>	
