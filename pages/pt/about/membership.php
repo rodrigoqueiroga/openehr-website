@@ -133,7 +133,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 				
 				
 			<h2>Representantes openEHR</h2>
-			<p>Representantes openEHR refere-se a individuos em função da capacidade dada pela Direção da Fundação openEHR para formalmente representar a Fundação openEHR em questões openEHR, e liderar atividades localizads em seus respectivos locais(ex. países, grupos de países ou grupos reunidos por meio da língua/cultura com uma ou mais jurisdições). Isto é parte da <a href="/pt/programs/localisation/governance">Estrutura de Governança do Programa de Localização (Localisation Programme governance structure)</a>. Os Representantes devem ser nominado pelo Comitê do Programa de Localização (Localisation Programme Committee - (LPC)) e aprovado pelo Corpo Diretivo.</p>
+			<p>Representantes openEHR refere-se a individuos em função da capacidade dada pela Direção da Fundação openEHR para formalmente representar a Fundação openEHR em questões openEHR, e liderar atividades localizads em seus respectivos locais(ex. países, grupos de países ou grupos reunidos por meio da língua/cultura com uma ou mais jurisdições). Isto é parte da <a href="/pt/programs/localisation/governance">Estrutura de Governança do Programa de Localização (Localisation Programme governance structure)</a>. Os Representantes devem ser nominados pelo Comitê do Programa de Localização (Localisation Programme Committee - (LPC)) e aprovados pelo Corpo Diretivo.</p>
 			
 <!-- - - - - - - - - - - - - - - - - - - - - - - Content ends here - - - - - - - - - - - - - - - - - - - - - - - - - -->
 		</div>	
