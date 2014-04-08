@@ -61,7 +61,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 				<td> Nominado e eleito por Membros Qualificados.</td>
 				<td> 
 					<ul>
-						<li>Strategic decision-making for the openEHR Foundation.</li>
+						<li>Decisões Estratégicas para A Fundação openEHR.</li>
 					</ul>
 				</td>
 			</tr>
@@ -69,28 +69,28 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			</table>
 			
 			
-			<h2>Organisational Membership - Partners</h2>
-			<p>The openEHR Foundation will establish an Organisational membership category known as Partners, which includes four types. Becoming a Foundation Partner involves the organisation making a financial contribution, determined in a way that depends on the type of organisation. The Partner member types are as follows:</p>
+			<h2>Organizações Membro - Parcerias</h2>
+			<p>A Fundação openEHR estabelece uma categoria de membros para Organizações conhecida como Parceria, que inclui 4 tipos. Tornar-se um Parceiro da Fundação envolve uma contribuição financeira, determinada com base no tipo da organização. Os tipos de membro Parceiros são os seguintes:</p>
 			<table class="TableBasic">
 			<tbody>
 			<tr>
-				<th> Category</th>
-				<th> Description</th>
-				<th> Benefits</th>
-				<th> Financial<br/>Basis</th>
+				<th> Categoria</th>
+				<th> Descrição</th>
+				<th> Benefícios</th>
+				<th> Financeiro<br/>Basis</th>
 			</tr>
 			<tr>
-				<td> <b id="industrypartner">Industry Partner</b></td>
-				<td> Software developers and vendors using openEHR</td>
+				<td> <b id="industrypartner">Parceiro da Área (Industry Partner)</b></td>
+				<td> Desenvolverdores de Software e vendedores que usam openEHR</td>
 				<td> 
 					<ul>
-						<li>Ability to collectively elect 2 Management Board members;</li>
-						<li>Right to contribute to development of accreditation/certification process;</li>
-						<li>Right to propose their solutions being tested against openEHR certification criteria;</li>
-						<li>Visibility on openEHR website and right to post to the industry news and events;</li>
-						<li>Participation in planning of conferences and educational events;</li>
-						<li>Clinical Knowledge Manager (CKM) sub-domain within a national or international CKM domain;</li>
-						<li>Right of review and veto (> 2/3 majority with quorum) openEHR specification changes.</li>
+						<li>Habilidade de eleger concomitantemente 2 membros do Corpo Diretivo;</li>
+						<li>Direito a contribuir para o deenvolvimento do processo de Acreditação/Certificação;</li>
+						<li>Direito a propor que sua solução seja testada nos critérios de certificação openEHR;</li>
+						<li>Visibilidade no sítio openEHR e direito a inserir notícias no noticiário do ramo e em eventos;</li>
+						<li>Participação no planejamento de eventos educacionais e conferencias;</li>
+						<li>Subdomínio do Clinical Knowledge Manager (CKM) dentro dos domínios CKM national ou internacional;</li>
+						<li>Direito a revisão e veto (> 2/3 maioria com quorum) em mudança nas especificações openEHR.</li>
 					</ul>
 				</td>
 				<td> Annual gross revenue</td>
