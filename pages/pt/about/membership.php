@@ -27,15 +27,15 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			</tr>
 			<tr>
 				<td> <b>Membro</b></td>
-				<td> Subscription to openEHR discussion list(s).</td>
+				<td> Assinatura à(s) Lista(s) de Discussão openEHR.</td>
 				<td> 
 					<ul>
-						<li>Can participate in  all meetings, online work groups.</li>
+						<li>Podem participar em todas as reuniões, grupos de trabalho online.</li>
 					</ul>
 				</td>
 			</tr>
 			<tr>
-				<td> <b>Contributing<br/>Member</b>	</td>
+				<td> <b>Contribuição<br/>Member</b>	</td>
 				<td> Fulfill qualifying criteria; elected by Program Committee.</td>
 				<td> 
 					<ul>
