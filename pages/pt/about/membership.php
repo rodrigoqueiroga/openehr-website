@@ -12,21 +12,21 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			
 			<h1><?php echo "$PageName";?></h1>
 			
-			<p>Direct participation in the Foundation is by Individual Members and Partners (Organisational Members), with indirect participation possible via National Affiliates, as illustrated below.</p>
+			<p>Podem participar da Fundação diretamente Membros Individuais e Parceiros (Organizações Membro), com participação indireta via filiação nacional, como ilustrado abaixo.</p>
 			<p style="text-align:center;"><img src="/files/about/MembershipStructure.png" alt="openEHR Foundation membership categories" title="openEHR Foundation membership categories" style="border: solid 1px #CCCCCC;"></p>	
 		
 			
-			<h2 id="individualmembership">Individual membership</h2>
-			<p>Individual Membership in openEHR is free. There are various categories of membership, based on experience and responsibility. Transitioning from one level of involvement to the next is done on the basis of merit, in a similar fashion to the Apache Software Foundation 'meritocracy' concept.</p>
+			<h2 id="individualmembership">Adesão individual</h2>
+			<p>A Adesão individual ao openEHR é gratuita. Existem várias categorias de adesão, baseadas na experiência e responsabilidade. A transição de um nível de envolvimento para o próximo ocorre com base no mérito, de maneira similar ao conceito de 'meritocracia' do Apache Software Foundation.</p>
 			<table class="TableBasic">
 			<tbody>
 			<tr>
-				<th> Category </th>
-				<th> How Obtained</th>
-				<th> Rights & Responsibilities</th>
+				<th> Categoria </th>
+				<th> Como obter</th>
+				<th> Direitos e Responsabilidades</th>
 			</tr>
 			<tr>
-				<td> <b>Member</b></td>
+				<td> <b>Membro</b></td>
 				<td> Subscription to openEHR discussion list(s).</td>
 				<td> 
 					<ul>
