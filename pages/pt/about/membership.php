@@ -93,33 +93,33 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 						<li>Direito a revisão e veto (> 2/3 maioria com quorum) em mudança nas especificações openEHR.</li>
 					</ul>
 				</td>
-				<td> Annual gross revenue</td>
+				<td> Receita bruta anual</td>
 			</tr>
 			<tr>
-				<td> <b id="academicpartner">Academic Partner</b></td>
-				<td> Universities and other educational organisations</td>
+				<td> <b id="academicpartner">Parceiro Acadêmico (Academic Partner)</b></td>
+				<td> Universidades e outras organizações educacionais</td>
 				<td> 
 					<ul>
-						<li>Ability to collectively elect 1 Management Board member;</li>
-						<li>Participation in planning of conferences and educational events;</li>
-						<li>Clinical Knowledge Manager (CKM) sub-domain within a national or international CKM domain.</li>
+						<li>Habilidade para eleger concomitantemente 1 membro do Corpo Diretivo;</li>
+						<li>Participação no planejamento de eventos educacionais e conferencias;</li>
+						<li>Subdomínio do Clinical Knowledge Manager (CKM) dentro dos domínios CKM national ou internacional.</li>
 					</ul>
 				</td>
 				<td> TBD</td>
 			</tr>
 			<tr>
-				<td> <b id="nationalpartner">National Partner</b><br/>(one per country)</td>
-				<td> Ministries of Health or other permanent bodies, typically sponsoring / funding national e-health Programs</td>
+				<td> <b id="nationalpartner">Parceiro Nacional (National Partner)</b><br/>(um por país)</td>
+				<td> Ministérios da Saúde ou outro corpo permanente, tipicamente patrocinando / lastreando Programas de e-Saúde (e-health) Nacionais</td>
 				<td> 
 					<ul>
-						<li>Participation in planning of conferences and educational events;</li>
-						<li>Clinical Knowledge Manager (CKM) national domain.</li>
+						<li>Participação no planejamento de eventos educacionais e conferencias;</li>
+						<li>Domínio Nacional do Clinical Knowledge Manager (CKM).</li>
 					</ul>
 				</td>
-				<td> Based on World Bank country multipliers</td>
+				<td> Multiplicadores no país com base no Banco Mundial (World Bank)</td>
 			</tr>
 			<tr>
-				<td> <b>Sponsoring Partner</b></td>
+				<td> <b>Parceiros Patrocinadores (Sponsoring Partner)</b></td>
 				<td> Large companies or organisations who want to provide resources to raise the profile of openEHR and their own organisation for mutual benefit</td>
 				<td> 
 					<ul>
