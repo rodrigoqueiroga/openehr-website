@@ -36,29 +36,29 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			</tr>
 			<tr>
 				<td> <b>Contribuição<br/>Member</b>	</td>
-				<td> Fulfill qualifying criteria; elected by Program Committee.</td>
+				<td> Cumprindo os critérios de qualificação, eleitos pelo Comitê do Programa.</td>
 				<td> 
 					<ul>
-						<li>Can be a member of Program project groups and Committees;</li>
-						<li>Can vote in meetings.</li>
+						<li>Pode ser um membro dos grupos e comitês de projeto do Programa;</li>
+						<li>Pode votar em reuniões.</li>
 					</ul>
 				</td>
 			</tr>
 			<tr>
-				<td> <b>Qualified<br/>Member</b></td>
-				<td> Elected by relevant Program Committee.</td>
+				<td> <b>Qualificado<br/>Member</b></td>
+				<td> Eleito pelo Comitê do Programa como relevante.</td>
 				<td> 
 					<ul>
-						<li>Right to take formal roles in Program and Project groups;</li>
-						<li>Right to make changes to deliverables;</li>
-						<li>Right to post to the community news, releases and events;</li>
-						<li>Right to elect 2 Members of the openEHR Management Board.</li>
+						<li>Direito a assumir papel formal em grupos de Projetos e Programas;</li>
+						<li>Direito a realizar alterações em entregáveis (deliverables);</li>
+						<li>Direito a inserir novidades nas notícias da comunidade, versões e eventos;</li>
+						<li>Direito a eleger 2 Membros do Corpo Diretivo openEHR.</li>
 					</ul>
 				</td>
 			</tr>
 			<tr>
-				<td> <b>Management<br/>Board<br/>member<br/></b>(2 positions)</td>
-				<td> Nominated and elected by Qualified Members.</td>
+				<td> <b>Membro<br/>do Corpo<br/>Diretivo<br/></b>(2 posições)</td>
+				<td> Nominado e eleito por Membros Qualificados.</td>
 				<td> 
 					<ul>
 						<li>Strategic decision-making for the openEHR Foundation.</li>
