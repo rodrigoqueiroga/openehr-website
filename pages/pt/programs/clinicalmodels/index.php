@@ -12,11 +12,11 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 		
 			<h1><?php echo "$PageName";?></h1>
 			
-			<h2>Introduction</h2>
-			<p>The Health Information Models space is for discussions about formalised models of health domain content. In the openEHR Framework there are a number of innovations that make it relatively straightforward to specify and share clinical content. The foundations are the clinical models, consisting of archetypes and templates. These models require terminology and finally the models need to support automated clinical process, offering the clinician users decision support and suggesting quality care options in the form of computerised clinical pathways.</p>
+			<h2>Introdução</h2>
+			<p>O espaço Modelos de Informação em Saúde (Health Information Models) é para discussões sobre modelos formais de conteúdo do domínio saúde. No Framework openEHR há uma série de inovações que o tornam relativamente simples para especificar e compartilhar conteúdo clínico. Os fundamentos são modelos clínicos, consistidos de arquétipos e modelos (templates). Estes modelos necessitam de terminologia e, finalmente os modelos precisam suportar processos clínicos automatizados, oferecendo aos profissionais clínicos apoio à decisão e sugerindo opções de qualidade no cuidado sob a forma de linhas guia clínicas computadorizadas.</p>
 			
 			
-			<h2>Clinical Models</h2>
+			<h2>Modelos Clínicos</h2>
 			<p>The openEHR community is now formally reviewing a set of archetypes for clinical use in an international setting. This is available via a web-based controlled <a href="http://www.openehr.org/wiki/display/healthmod/Clinical+Knowledge+Manager" target="_blank">authoring environment</a>. The evaluation is proceeding under the guidance of Dr Heather Leslie and the Archetype Editorial Group.</p>
 			
 			<h3>Background</h3>
