@@ -30,8 +30,8 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			<p>Modelos (Templates) são um significado mais avançado na construção do modelos clínicos; estes são compostos de um ou mais arquétipos onde acrescentamos restrições necessárias ao uso destes arquétipos em um cenário particular. Assim, arquétipos para pressão sanguínea, peso, glicose podem ser usadas para registrar o acompanhamento anual de uma pessoal diabética ou em uma consulta de pré-natal de uma mulher grávida. Isto é, os modelos serão criados  de forma específica para ‘acompanhamento de diabetes’ e ‘consulta pré-natal’.</p>
 			
 			
-			<h2>Terminology</h2>
-			<p>Terminology is as old as computers in health care. Initially used to minimise disk space, the use of terminologies has grown to classify health care offered and more recently, through use of SNOMED-CT (<a href="http://www.ihtsdo.org/" target="_blank">IHTSDO</a>) to support automated clinical process. Archetypes, and openEHR for that matter, are designed to work with terminology.</p>
+			<h2>Terminologia</h2>
+			<p>Terminologia é tão antiga quanto os computadores em saúde. Inicialmente usada para minimizar espaço em disco, o uso de terminologias cresceu a ponto de classificar o cuidado em saúde ofertado e, mais recentemente, por meio do SNOME-CT (<a href="http://www.ihtsdo.org/" target="_blank">IHTSDO</a>) para apoiar processos clínicos automatizados. Arquétipos, e o openEHR nesta questão, são planejados para trabalhar com terminologia.</p>
 			
 			<h4>Archetypes and Terminolofy</h4>
 			<p>Every term in an archetype can be 'bound' to a terminology to better understand the authors intent. Further, archetypes allow expression of subsets to determine which terms are appropriate values at a given data point. This is called a 'constraint definition' and is really a placeholder for a valueset that is offered to the user within the application.</p>
