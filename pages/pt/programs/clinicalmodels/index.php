@@ -33,14 +33,14 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			<h2>Terminologia</h2>
 			<p>Terminologia é tão antiga quanto os computadores em saúde. Inicialmente usada para minimizar espaço em disco, o uso de terminologias cresceu a ponto de classificar o cuidado em saúde ofertado e, mais recentemente, por meio do SNOME-CT (<a href="http://www.ihtsdo.org/" target="_blank">IHTSDO</a>) para apoiar processos clínicos automatizados. Arquétipos, e o openEHR nesta questão, são planejados para trabalhar com terminologia.</p>
 			
-			<h4>Archetypes and Terminolofy</h4>
-			<p>Every term in an archetype can be 'bound' to a terminology to better understand the authors intent. Further, archetypes allow expression of subsets to determine which terms are appropriate values at a given data point. This is called a 'constraint definition' and is really a placeholder for a valueset that is offered to the user within the application.</p>
+			<h4>Arquétipos e Terminologia</h4>
+			<p>Cada termo em um arquétipo pode ser unificado a uma terminologia para melhor compreensão da intenção do autor. Além disso, os arquétipos permitem a expressão de subconjuntos para determinar os mais apropriado conjuntos de termos de valores em um  ponto de dados específico. Isto é conhecido como ‘definição de restrição’ e  é um espaço reservado  para um conjunto de valores que é oferecido ao usuário dentro da aplicação.</p>
 			
-			<h4>Templates and Terminology</h4>
-			<p>Terminologies used in Healthcare include <a href="http://www.who.int/classifications/icd/en/" target="_blank">ICD-10</a> (and its predecessor ICD-9), <a href="http://www.ihtsdo.org/snomed-ct/" target="_blank">SNOMED-CT</a>, <a href="http://loinc.org/" target="_blank">LOINC</a> and many others.</p>
-			<p>Most terminologies use codes as identifiers or references to each individual term or concept. Codes and identifiers are generally to aid processing by computer rather than humans. They come at a price.</p>
+			<h4>Modelos (Templates) and Terminologia</h4>
+			<p>Terminologias usadas no Cuidado à Saúde incluem <a href="http://www.who.int/classifications/icd/en/" target="_blank">ICD-10</a> (e seus  predecessores ICD-9), <a href="http://www.ihtsdo.org/snomed-ct/" target="_blank">SNOMED-CT</a>, <a href="http://loinc.org/" target="_blank">LOINC</a> e muitos outro.</p>
+			<p>A maioria das terminologias utiliza codigos como identificadores ou referências para cada termo ou conceito individual. Códigos e identificadores são geralmente para auxiliar o processamento por computador em lugar de pessoas.</p>
 			
-			<h4>Codes, EHRs and Semantic Interoperability</h4>
+			<h4>Códigos, Registros Eletrônicos em Saúde (EHRs) e Interoperabilidade Semântica</h4>
 			<p>One often hears that coded data are essential for semantic interoperability and decision support. Coding is the use of symbolic,  or alphanumeric identifiers to tag data items as referring to concepts or terms from an agreed vocabulary or ontology. Coding, may, in many circumstances have some value. But it also comes at a price. This <a href="http://www.openehr.org/wiki/display/healthmod/Codes%2C+EHRs+and+Semantic+Interoperability" target="_blank">article</a> looks at the balance sheet to tease out the issues facing those making recommendations for electronic health records and semantic interoperability.</p>
 			
 			
